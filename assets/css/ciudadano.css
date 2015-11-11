@@ -1,0 +1,139 @@
+
+		.negro {
+			 /* PANTONE PROCESS BLACK C*/
+			 background-color: #211d18;
+		}
+		.gris {
+			 /* PANTONE PROCESS BLACK C 80%*/
+			 background-color: #333333;
+		}		
+		.naranja {
+			 /* PANTONE 1525 C*/
+			 background-color: #bc4800;
+		}
+
+		.naranja p {
+			 /* PANTONE 1525 C*/
+			 color: white;
+			 background-color: #bc4800;
+		}
+
+		.naranja h2 {
+			 /* PANTONE 1525 C*/
+			 color: white;
+			 background-color: #bc4800;
+		}		
+
+		.naranja a {
+			 /* PANTONE 1525 C*/
+			 color: white;
+			 background-color: #bc4800;
+		}
+
+		.amarillo {
+			 /* PANTONE 1525 C*/
+			 background-color: #ffcd00;
+		}
+
+		.amarillo p {
+			 /* PANTONE 1525 C*/
+			 color: black;
+			 background-color: #ffcd00;
+		}
+
+		.amarillo h2 {
+			 /* PANTONE 1525 C*/
+			 color: black;
+			 background-color: #ffcd00;
+		}		
+
+		.amarillo a {
+			 /* PANTONE 1525 C*/
+			 color: black;
+			 background-color: #ffcd00;
+		}		
+
+		.azul {
+			 /* PANTONE 1525 C*/
+			 background-color: #425563;
+		}
+
+		.azul p {
+			 /* PANTONE 1525 C*/
+			 color: white;
+			 background-color: #425563;
+		}
+
+		.azul h2 {
+			 /* PANTONE 1525 C*/
+			 color: white;
+			 background-color: #425563;
+		}		
+
+		.azul a {
+			 /* PANTONE 1525 C*/
+			 color: white;
+			 background-color: #425563;
+		}
+
+		.rojo {
+			 /* PANTONE 1525 C*/
+			 background-color: #e10833;
+		}		
+
+		.rojo p {
+			 /* PANTONE 1525 C*/
+			 color: white;
+			 background-color: #e10833;
+		}
+
+		.rojo h2 {
+			 /* PANTONE 1525 C*/
+			 color: white;
+			 background-color: #e10833;
+		}		
+
+		.rojo a {
+			 /* PANTONE 1525 C*/
+			 color: white;
+			 background-color: #e10833;
+		}
+
+		h2 {
+			color: white;
+		}
+
+		p {
+			color: #ccc;
+		}
+
+		a {
+			color: white;
+		}
+
+		[class*="col-"] {
+		    background-clip: padding-box;
+		    border: 10px solid transparent;
+		    min-height: 300px;
+		}	
+
+		.nopad {
+		    background-clip: padding-box;
+		    border: 0px solid transparent;			
+		}				
+
+		@media (min-width: 1200px) {
+		    .container{
+		        max-width: 970px;
+		    }
+		}
+
+		@media (min-width: 1900px) {
+		    .container{
+		        max-width: 1670px;
+		    }
+		}	
+
+		#sidebar div {
+			padding-bottom: 23px;
+		}	
